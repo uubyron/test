@@ -12800,7 +12800,7 @@ thead.thead-inverse th,
   .card .card-header-primary, .card.bg-primary,
   .card.card-rotate.bg-primary .front,
   .card.card-rotate.bg-primary .back {
-    background: linear-gradient(60deg, #ab47bc, #7b1fa2); }
+    background: linear-gradient(60deg, #2D68FE, #2D68FE); }
   .card .card-header-info, .card.bg-info,
   .card.card-rotate.bg-info .front,
   .card.card-rotate.bg-info .back {
@@ -12859,6 +12859,12 @@ thead.thead-inverse th,
     overflow: hidden;
     border-radius: 50%;
     margin-right: 5px; }
+  .login-tab{
+		display: inline-flex;
+	}
+  .signup-tab{
+	  padding: 1rem;
+  }
   .card .author a {
     color: #3C4858;
     text-decoration: none; }
